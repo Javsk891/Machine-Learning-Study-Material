@@ -1,2 +1,2 @@
-# Machine-Learning-Study-Material
+# DeEP-Learning-Study-Material
 Repository with study material for Machine Learning,
